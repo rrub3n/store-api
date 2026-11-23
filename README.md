@@ -24,7 +24,7 @@ Permite cadastrar usuários, categorias e produtos (com imagens e opções), com
 ### 1. Clonar e instalar
 
 ```bash
-git clone [URL-DO-REPOSITORIO]
+git clone https://github.com/rrub3n/store-api
 cd store-api
 npm install
 ```
